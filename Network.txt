@@ -1,0 +1,26 @@
+Network :- where so many resource inter-connect with each other thorugh a system hole known as Network, it can exist on different different scale. 
+
+lAN :- Large area Network , faster than both MAN & WAN , connect these places:- as house network , corprate building , on school's computer Network system.
+
+MAN :- Metropolitan area Network , faster than WAN but slower than LAN , connect's the Cities , Towns & States to each other
+
+WAN :- Wide are Network , slower than both LAN & MAN , connect's the countries to each other on global level , also connects your office , data centre , cloud app and cloud storage together.
+
+what can u do from network:-commiucation , resouce sharing & conversation can be established.
+
+INTERNET(Network of Network) :- its is a global system where billions of device's exist in the world and they all are interconnected.
+
+IP-Addrees :- it's a location of a particular file in the internet through anybody can access it and every web has their unique ip-addrees.
+
+Browser :-  Internet have many different files , website , web-app , web-page and so many other resource etc. browser help u to access all of these files through IP-Address.
+
+Browser Engine :- its a software help to run a website and web-application.
+
+DNS(Domain Name Resolution) Server :- Converts the domain name into IP-Address
+
+
+
+
+Context for Linkedin
+
+In Today lesson we learned about what is the Network and the types of it(LAN , MAN , WAN) and what can networking can do. also learn what is Internet , what is the work of IP-Address and what is Browser and how it's work with browser engine also study how client side work and what's the process behind it.
