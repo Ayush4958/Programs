@@ -1,0 +1,11 @@
+ISP :- it provide address to client to access the server. client PC never direct sent the request to server , intially it sent the request to ISP , then ISP sent redirect it to server and also provide a address to client.
+
+Packets :- When a file was broke into pieces and sent it to other computer , those pieces of files is knowns as Packets (at time of sending it broke but when they reach to their destination they automaticallu Unite).
+
+Protocol = Set of Rules always been followed
+
+Client Server Working :- The client server computing works with a system of request and response. The client sends a request to the server and the server responds with the desired information. The client and server should follow a common communication protocol so they can easily interact with each other.
+
+How packages travel over the Internet :- these packages go to the ISP and put the request of user and ISP checks that if they have requested IP Address or not if they have they route user to the website but if they not they just pass it to parent ISP and the further process run.
+
+While checking the IP-Address the IPS check inside their routing where they have all information about IP-Addresses.
