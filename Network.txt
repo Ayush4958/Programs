@@ -18,9 +18,3 @@ Browser Engine :- its a software help to run a website and web-application.
 
 DNS(Domain Name Resolution) Server :- Converts the domain name into IP-Address
 
-
-
-
-Context for Linkedin
-
-In Today lesson we learned about what is the Network and the types of it(LAN , MAN , WAN) and what can networking can do. also learn what is Internet , what is the work of IP-Address and what is Browser and how it's work with browser engine also study how client side work and what's the process behind it.
