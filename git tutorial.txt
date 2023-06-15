@@ -1,0 +1,11 @@
+Process to upload code on repo
+
+git config --global user.name "Your name"
+git config --global user.email "your email"
+tocuh .gitignore (these files will not be published)
+git init
+git add . 
+git commit -m "Initial commit"
+git status <just for checking>
+git remote add origin <copy ssh key form repo>
+git push origin master
